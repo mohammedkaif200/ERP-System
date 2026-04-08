@@ -1,56 +1,73 @@
+# Welcome to your Lovable project
 
-# 🏢 ERP System (Enterprise Resource Planning)
+## Project info
 
-## 📌 Overview
-This project is an Enterprise Resource Planning (ERP) System designed to integrate and manage core business processes in a centralized platform. It helps organizations streamline operations, improve efficiency, and make data-driven decisions.
+**URL**: https://lovable.dev/projects/d31ea8ca-6224-4070-a1d2-c39f3fb893af
 
-## 🎯 Objective
-- To automate and manage business operations  
-- To integrate multiple departments into a single system  
-- To improve data accuracy and workflow efficiency  
+## How can I edit this code?
 
-## ⚙️ Modules Included
-- 👨‍💼 Human Resource Management (HRM)  
-- 📦 Inventory Management  
-- 💰 Finance & Accounting  
-- 🧾 Sales & Purchase Management  
-- 📊 Reporting & Analytics  
+There are several ways of editing your application.
 
-## 📂 Features
-- Centralized database management  
-- Role-based user access control  
-- Real-time data updates  
-- Dashboard for performance tracking  
-- Report generation  
+**Use Lovable**
 
-## 🛠️ Technologies Used
-- Programming Language: Java / Python / PHP *(update as per your project)*  
-- Database: MySQL / SQL Server  
-- Frontend: HTML, CSS, JavaScript  
-- Tools: Power BI / Excel *(if used for reporting)*  
+Simply visit the [Lovable Project](https://lovable.dev/projects/d31ea8ca-6224-4070-a1d2-c39f3fb893af) and start prompting.
 
-## 🔐 Security Features
-- User authentication and authorization  
-- Data validation  
-- Secure data storage  
+Changes made via Lovable will be committed automatically to this repo.
 
-## 📈 Benefits
-- Reduces manual work and errors  
-- Improves productivity and efficiency  
-- Provides real-time insights  
-- Enhances decision-making  
+**Use your preferred IDE**
 
-## 🚀 How to Run
-1. Clone the repository  
-2. Set up the database  
-3. Configure environment variables  
-4. Run the application  
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## 📌 Future Enhancements
-- AI-based analytics  
-- Mobile application integration  
-- Cloud deployment  
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
----
+Follow these steps:
 
-⭐ Don’t forget to star the repo if you found it useful!
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/d31ea8ca-6224-4070-a1d2-c39f3fb893af) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
